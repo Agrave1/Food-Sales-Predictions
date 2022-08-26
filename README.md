@@ -10,3 +10,4 @@ Dropped item identifier and outlet identifier columns in final analysis because 
 Imputed values based on frequency for categorical columns because the most frequent value would skew the data less
 Imputed values based on mean for numerical columns because there were no large outliers effecting the data
 Results
+A
