@@ -4,7 +4,8 @@
 ### Business Problem
 Help the retailer understand understand the properties of products and outlets that play crucial roles in increasing sales
 ## Data
-https://docs.google.com/spreadsheets/d/1ASCHxodNFltqE78nQbDmA9WsbogZZOoxKRCllUsrQN4/edit#gid=48253514, 8523 observations
+[https://docs.google.com/spreadsheets/d/1ASCHxodNFltqE78nQbDmA9WsbogZZOoxKRCllUsrQN4/edit#gid=48253514](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/) 
+8523 observations
 ## Methods
 Dropped item identifier and outlet identifier columns in final analysis because each value in those columns was unique, ultimately adding nothing to the analysis
 Imputed values based on frequency for categorical columns because the most frequent value would skew the data less
