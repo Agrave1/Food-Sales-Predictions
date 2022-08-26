@@ -1,5 +1,5 @@
-# Title
-## Subtitle describing analysis
+# Making Items More Visible Increases Sales  
+## Performed data visualizations and machine learning to analyze sales of various outlets 
 #### Anthony Gravink
 ### Business Problem
 Help the retailer understand understand the properties of products and outlets that play crucial roles in increasing sales
