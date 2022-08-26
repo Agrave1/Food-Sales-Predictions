@@ -11,4 +11,10 @@ https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii
 - Imputed values based on frequency for categorical columns because the most frequent value would skew the data less  
 - Imputed values based on mean for numerical columns because there were no large outliers effecting the data  
 ## Results
-#### Visual 1 Title
+- The most important metrics are item visibility, item type, and item MRP  
+- Foods with a higher MRP were often given more visibility and contributed significantly to sales  
+- Certain foods has a low item count within their type, but were given significsnt visibility contributing to overall sales  
+## Limitations/Recommendations  
+- Overall very little significant info was given on the grocery store/supermarket itself  
+- The vast majority of outlets were of the same size and type providing little findings other than a bigger store will produce more sales overall  
+- Perhaps creating more characteristics to identify outlets could help improve that aspect of the analysis
