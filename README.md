@@ -13,7 +13,7 @@ https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii
 ## Results
 - The most important metrics are item visibility, item type, and item MRP  
 - Foods with a higher MRP were often given more visibility and contributed significantly to sales  
-- Certain foods has a low item count within their type, but were given significsnt visibility contributing to overall sales  
+- Certain foods has a low item count within their type, but were given significant visibility contributing to overall sales  
 ## Limitations/Recommendations  
 - Overall very little significant info was given on the grocery store/supermarket itself  
 - The vast majority of outlets were of the same size and type providing little findings other than a bigger store will produce more sales overall  
